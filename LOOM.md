@@ -7,7 +7,7 @@
 "Student-facing slides. Teaching notes sit in the speaker notes, so the instructor gets talking points and a question to ask. Down here, the source line: the exact page it came from."
 
 **0:45, open the vignette docx, then the teaching note**
-"Same facts, second format: a short student case with a decision point and questions, and a separate teaching note with the answers."
+"Same facts, second format: a short student case with a decision point and questions, and a separate teaching note listing the facts used and their sources."
 
 **1:05, open demo/run-teaching-deck/**
 "Every run keeps a record: what was retrieved, what the model returned, the check results. If the model cites something that is not in your documents, the run fails. Nothing is invented."
