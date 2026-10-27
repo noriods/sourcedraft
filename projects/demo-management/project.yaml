@@ -1,0 +1,7 @@
+sources: sources
+privacy: any
+provider:
+  base_url: https://openrouter.ai/api/v1
+  model: qwen/qwen3.8-flash
+  api_key_env: OPENROUTER_API_KEY
+recipes: [teaching-deck, case-vignette]
