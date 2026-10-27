@@ -1,0 +1,10 @@
+{
+  "title": "deck title",
+  "slides": [
+    {
+      "title": "slide title",
+      "points": [{"text": "student-facing bullet", "sources": ["chunk id"]}],
+      "notes": [{"text": "instructor note: what to say, ask or watch for", "sources": ["chunk id"]}]
+    }
+  ]
+}

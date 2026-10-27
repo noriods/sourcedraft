@@ -1,0 +1,7 @@
+{
+  "title": "vignette title",
+  "vignette": [{"text": "short story paragraph built from the facts", "sources": ["chunk id"]}],
+  "decision_point": {"text": "the decision the student must make", "sources": ["chunk id"]},
+  "questions": ["discussion question"],
+  "teaching_note": [{"text": "what the instructor should draw out, with the right concepts", "sources": ["chunk id"]}]
+}

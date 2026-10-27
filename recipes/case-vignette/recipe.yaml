@@ -1,0 +1,6 @@
+exporter: docx
+k: 8
+queries:
+  - "{topic}"
+  - "{topic} example case"
+  - "{topic} decision"

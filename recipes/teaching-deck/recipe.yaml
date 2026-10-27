@@ -1,0 +1,6 @@
+exporter: pptx
+k: 8
+queries:
+  - "{topic}"
+  - "{topic} objectives"
+  - "{topic} example"
