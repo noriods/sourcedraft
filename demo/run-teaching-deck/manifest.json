@@ -1,0 +1,14 @@
+{
+  "project": "demo-management",
+  "recipe": "teaching-deck",
+  "exporter": "pptx",
+  "topic": "Managerial decision making",
+  "model": "qwen/qwen3.8-flash",
+  "privacy": "any",
+  "inputs": {
+    "objectives.md": "13fe0ac0bc5113b62f37bc1d378fff41b44e2d39e341196fd087fb1ed760d443",
+    "openstax-ch2-managerial-decision-making.pdf": "0485fe4a606740b03a958974bea6b9fc2105a2cc4fb3d19a3f93f6b5ee3d2d39",
+    "publisher-slides-standin.pptx": "b4dab19c8893c21a232acfbd7a819786e3164c92446d75578d8d87c508fade88"
+  },
+  "prompt_sha256": "b9c286be30960576bd913be63868caa8ab9ac2d5eeb7b4589692e5f595d74809"
+}

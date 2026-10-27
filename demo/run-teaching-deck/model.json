@@ -1,0 +1,845 @@
+{
+  "raw": "{\n  \"title\": \"Managerial Decision-Making\",\n  \"slides\": [\n    {\n      \"title\": \"Learning Objectives\",\n      \"points\": [\n        {\n          \"text\": \"Describe basic characteristics of managerial decision-making.\",\n          \"sources\": [\"objectives.md#Learning objectives\"]\n        },\n        {\n          \"text\": \"Contrast reflective and reactive decision-making systems.\",\n          \"sources\": [\"objectives.md#Learning objectives\"]\n        },\n        {\n          \"text\": \"Distinguish programmed from nonprogrammed decisions.\",\n          \"sources\": [\"objectives.md#Learning objectives\"]\n        },\n        {\n          \"text\": \"Identify barriers to effective decision-making, including confirmation bias.\",\n          \"sources\": [\"objectives.md#Learning objectives\"]\n        },\n        {\n          \"text\": \"Apply techniques that improve individual and group decisions.\",\n          \"sources\": [\"objectives.md#Learning objectives\"]\n        }\n      ],\n      \"notes\": [\n        {\n          \"text\": \"Present these as the main questions this session will answer.\",\n          \"sources\": [\"objectives.md#Learning objectives\", \"openstax-ch2-managerial-decision-making.pdf#p1\"]\n        },\n        {\n          \"text\": \"Ask which objective students feel least confident about.\",\n          \"sources\": [\"objectives.md#Learning objectives\"]\n        }\n      ]\n    },\n    {\n      \"title\": \"Why Managerial Decision-Making Matters\",\n      \"points\": [\n        {\n          \"text\": \"Managers make decisions on a daily basis.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p3\", \"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"Decision-making is thinking through options and selecting one.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p3\", \"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"Decision quality affects the organization and its stakeholders.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p3\", \"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"Top managers decide about technology or product lines; lower-level managers affect departments.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p3\"]\n        },\n        {\n          \"text\": \"Stakeholders include owners, employees, customers, suppliers, and community members.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        }\n      ],\n      \"notes\": [\n        {\n          \"text\": \"Use the Away founders example to show that even starting a business is a sequence of decisions.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p1\", \"openstax-ch2-managerial-decision-making.pdf#p3\"]\n        },\n        {\n          \"text\": \"Ask why a scheduling decision can matter even if it does not determine firm survival.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p3\"]\n        }\n      ]\n    },\n    {\n      \"title\": \"Basic Characteristics\",\n      \"points\": [\n        {\n          \"text\": \"Managerial decisions often have significant impact and implications.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"They often involve complexity, incomplete information, and time constraints.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\", \"openstax-ch2-managerial-decision-making.pdf#p3\", \"openstax-ch2-managerial-decision-making.pdf#p10\"]\n        },\n        {\n          \"text\": \"There is rarely one right answer.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\", \"openstax-ch2-managerial-decision-making.pdf#p4\"]\n        },\n        {\n          \"text\": \"Sometimes there are multiple good options or multiple bad options.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\", \"openstax-ch2-managerial-decision-making.pdf#p4\"]\n        },\n        {\n          \"text\": \"Managers must weigh consequences and recognize conflicting stakeholder needs.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"Some decisions have ethical implications.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\", \"openstax-ch2-managerial-decision-making.pdf#p4\"]\n        }\n      ],\n      \"notes\": [\n        {\n          \"text\": \"Ask what is wrong with treating management decisions like multiple-choice tests.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p4\"]\n        },\n        {\n          \"text\": \"Pitfall: students may think managers should simply wait for perfect information; waiting too long can also be harmful.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p3\"]\n        }\n      ]\n    },\n    {\n      \"title\": \"Two Brain Systems\",\n      \"points\": [\n        {\n          \"text\": \"The reflective system is logical, analytical, and methodical.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"The reactive system is quick and intuitive.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"Nonprogrammed decisions generally need reflective processing.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p9\"]\n        },\n        {\n          \"text\": \"Programmed decisions can use reactive processing through heuristics.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p9\", \"openstax-ch2-managerial-decision-making.pdf#p7\"]\n        }\n      ],\n      \"notes\": [\n        {\n          \"text\": \"Ask students to label one recent decision as reflective and one as reactive.\",\n          \"sources\": [\"objectives.md#Learning objectives\", \"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"Pitfall: students may say the reactive system is always worse; it can help with routine decisions.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p9\", \"openstax-ch2-managerial-decision-making.pdf#p7\"]\n        }\n      ]\n    },\n    {\n      \"title\": \"Programmed Decisions\",\n      \"points\": [\n        {\n          \"text\": \"Programmed decisions are repeated over time.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p7\", \"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"They can be guided by existing rules or criteria.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p7\", \"publisher-slides-standin.pptx#slide4\"]\n        },\n        {\n          \"text\": \"Their criteria may be simple or fairly complex.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p7\"]\n        },\n        {\n          \"text\": \"Example: scheduling part-time employees using anticipated business and availability.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p7\"]\n        },\n        {\n          \"text\": \"Example: ordering raw materials based on production, existing stock, and delivery timing.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p7\"]\n        }\n      ],\n      \"notes\": [\n        {\n          \"text\": \"Give one workplace example of a programmed decision and ask students to identify the rule.\",\n          \"sources\": [\"publisher-slides-standin.pptx#slide4\", \"openstax-ch2-managerial-decision-making.pdf#p7\"]\n        },\n        {\n          \"text\": \"Pitfall: students may assume programmed decisions are always simple.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p7\"]\n        }\n      ]\n    },\n    {\n      \"title\": \"Nonprogrammed Decisions\",\n      \"points\": [\n        {\n          \"text\": \"Nonprogrammed decisions are novel.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\", \"publisher-slides-standin.pptx#slide4\"]\n        },\n        {\n          \"text\": \"They lack well-defined or known criteria.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\", \"publisher-slides-standin.pptx#slide4\"]\n        },\n        {\n          \"text\": \"They require research, information, and other people's ideas.\",\n          \"sources\": [\"publisher-slides-standin.pptx#slide4\"]\n        },\n        {\n          \"text\": \"They should be handled with a systematic process.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p14\"]\n        },\n        {\n          \"text\": \"Example: deciding whether to pursue a new technology or product line.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p3\"]\n        }\n      ],\n      \"notes\": [\n        {\n          \"text\": \"Ask why heuristics save time for programmed decisions but may hurt important nonprogrammed decisions.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p9\", \"openstax-ch2-managerial-decision-making.pdf#p10\", \"openstax-ch2-managerial-decision-making.pdf#p7\"]\n        },\n        {\n          \"text\": \"Use the Away founder case as a nonprogrammed decision example.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p1\", \"openstax-ch2-managerial-decision-making.pdf#p7\", \"openstax-ch2-managerial-decision-making.pdf#p3\"]\n        }\n      ]\n    },\n    {\n      \"title\": \"Decision-Making Process\",\n      \"points\": [\n        {\n          \"text\": \"Step 1: Recognize that a decision needs to be made.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p14\"]\n        },\n        {\n          \"text\": \"Step 2: Generate multiple alternatives.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p14\"]\n        },\n        {\n          \"text\": \"Step 3: Analyze the alternatives.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p14\"]\n        },\n        {\n          \"text\": \"Step 4: Select an alternative.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p14\"]\n        },\n        {\n          \"text\": \"Step 5: Implement the selected alternative.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p14\"]\n        },\n        {\n          \"text\": \"Step 6: Evaluate its effectiveness.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p14\"]\n        }\n      ],\n      \"notes\": [\n        {\n          \"text\": \"Ask which step is easiest to rush and what quality may be lost.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p14\", \"openstax-ch2-managerial-decision-making.pdf#p15\"]\n        },\n        {\n          \"text\": \"Pitfall: ignoring problems because they are unclear leads to bigger problems.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p15\"]\n        }\n      ]\n    },\n    {\n      \"title\": \"Heuristics and Satisficing\",\n      \"points\": [\n        {\n          \"text\": \"Heuristics are mental shortcuts based on prior experience.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\", \"openstax-ch2-managerial-decision-making.pdf#p7\", \"openstax-ch2-managerial-decision-making.pdf#p14\"]\n        },\n        {\n          \"text\": \"Heuristics help managers reach good decisions quickly.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\", \"openstax-ch2-managerial-decision-making.pdf#p14\"]\n        },\n        {\n          \"text\": \"Satisficing selects the first acceptable solution.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\", \"openstax-ch2-managerial-decision-making.pdf#p14\"]\n        },\n        {\n          \"text\": \"Satisficing minimizes time spent on a decision.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"Example: choosing generic products quickly when they are cheap enough.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p14\"]\n        }\n      ],\n      \"notes\": [\n        {\n          \"text\": \"Ask students to name one low-risk managerial decision where satisficing is acceptable.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p14\"]\n        },\n        {\n          \"text\": \"Pitfall: time pressure can push managers toward heuristics when deep processing is needed.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p10\"]\n        }\n      ]\n    },\n    {\n      \"title\": \"Barriers to Effective Decisions\",\n      \"points\": [\n        {\n          \"text\": \"Bounded rationality limits full rationality because information and processing are incomplete.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\", \"openstax-ch2-managerial-decision-making.pdf#p9\"]\n        },\n        {\n          \"text\": \"Escalation of commitment keeps decision makers invested in poor decisions despite negative outcomes.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\", \"openstax-ch2-managerial-decision-making.pdf#p10\"]\n        },\n        {\n          \"text\": \"Time constraints can prevent enough information collection and deep processing.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p10\", \"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"Uncertainty means outcomes may be unknown until a choice is made.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p10\"]\n        },\n        {\n          \"text\": \"Personal biases favor familiar people, things, and ideas.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p10\"]\n        },\n        {\n          \"text\": \"Confirmation bias favors information that confirms existing beliefs.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\", \"objectives.md#Learning objectives\"]\n        }\n      ],\n      \"notes\": [\n        {\n          \"text\": \"Ask students to distinguish incomplete information from cognitive limits in bounded rationality.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p9\", \"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"Watch for students treating escalation of commitment as mere stubbornness rather than continued investment in a poor choice.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p10\"]\n        }\n      ]\n    },\n    {\n      \"title\": \"Improving Individual Decisions\",\n      \"points\": [\n        {\n          \"text\": \"Be creative to generate more options.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p14\", \"openstax-ch2-managerial-decision-making.pdf#p15\"]\n        },\n        {\n          \"text\": \"Conduct research and use evidence-based decision-making.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p14\", \"openstax-ch2-managerial-decision-making.pdf#p15\"]\n        },\n        {\n          \"text\": \"Evidence-based decision-making relies on best available evidence and data.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p15\", \"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"Engage in critical thinking.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p14\"]\n        },\n        {\n          \"text\": \"Think about long-term implications.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p14\"]\n        },\n        {\n          \"text\": \"Consider ethical implications.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p14\", \"openstax-ch2-managerial-decision-making.pdf#p4\"]\n        },\n        {\n          \"text\": \"Talk to other people, especially mentors, to generate alternatives.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p15\"]\n        }\n      ],\n      \"notes\": [\n        {\n          \"text\": \"Use the Away founders' research to illustrate evidence-based decision-making.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p1\", \"openstax-ch2-managerial-decision-making.pdf#p15\"]\n        },\n        {\n          \"text\": \"Pitfall: managers may generate only two alternatives and rush to analysis.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p15\"]\n        }\n      ]\n    },\n    {\n      \"title\": \"Common Logical Fallacies\",\n      \"points\": [\n        {\n          \"text\": \"Non sequitur: the conclusion does not logically follow from the argument.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p17\"]\n        },\n        {\n          \"text\": \"For non sequiturs, examine arguments, assumptions, and supporting evidence.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p17\"]\n        },\n        {\n          \"text\": \"False cause: assuming that because two things are related, one caused the other.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p17\"]\n        },\n        {\n          \"text\": \"For false cause, ask whether another factor may explain the relationship.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p17\"]\n        },\n        {\n          \"text\": \"Ad hominem: attacking the person rather than the argument.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p17\"]\n        },\n        {\n          \"text\": \"For ad hominem, ask whether the argument would be persuasive if stated by someone else.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p17\"]\n        }\n      ],\n      \"notes\": [\n        {\n          \"text\": \"Ask students to find the unspoken assumption in the competitor marketing example.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p17\"]\n        },\n        {\n          \"text\": \"Pitfall: dismissing an argument because of who said it rather than because of its reasoning.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p17\"]\n        }\n      ]\n    },\n    {\n      \"title\": \"Advantages of Group Decisions\",\n      \"points\": [\n        {\n          \"text\": \"Groups can incorporate different perspectives and ideas.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p22\"]\n        },\n        {\n          \"text\": \"Diverse groups bring different preferences, opinions, biases, and stereotypes.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p22\"]\n        },\n        {\n          \"text\": \"More people often bring unique information and knowledge.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p22\"]\n        },\n        {\n          \"text\": \"Group decision-making often generates more options.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p22\", \"openstax-ch2-managerial-decision-making.pdf#p24\"]\n        },\n        {\n          \"text\": \"Brainstorming generates as many solutions or options as possible.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p22\", \"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"Affected people may have greater understanding and commitment.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p22\"]\n        }\n      ],\n      \"notes\": [\n        {\n          \"text\": \"Ask why a hiring committee with both men and women may reduce similarity bias.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p22\"]\n        },\n        {\n          \"text\": \"Pitfall: students may assume that more people automatically means better decisions without diversity of perspective.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p22\"]\n        }\n      ]\n    },\n    {\n      \"title\": \"Disadvantages of Group Decisions\",\n      \"points\": [\n        {\n          \"text\": \"Groups can get bogged down by conflict.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p22\"]\n        },\n        {\n          \"text\": \"Some groups push for agreement at the expense of quality discussion.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p22\"]\n        },\n        {\n          \"text\": \"Groupthink occurs when members withhold concerns to keep peace.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p22\", \"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"Groupthink can arise from team spirit and fear of disrupting camaraderie.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p22\"]\n        },\n        {\n          \"text\": \"Suppression of dissent occurs when a member uses power to prevent others from speaking.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"Process conflict is task-oriented and constructive.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"Relationship conflict is personality-based and tends to be destructive.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        }\n      ],\n      \"notes\": [\n        {\n          \"text\": \"Ask students to recall a group that chose quick agreement over substantive discussion.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p22\", \"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"Distinguish process conflict from relationship conflict so students do not label all disagreement as harmful.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        }\n      ]\n    },\n    {\n      \"title\": \"Improving Group Decisions\",\n      \"points\": [\n        {\n          \"text\": \"Have diverse members in the group.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p24\"]\n        },\n        {\n          \"text\": \"Diversity can generate more options and reduce bias.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p24\"]\n        },\n        {\n          \"text\": \"Assign a devil's advocate.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p24\"]\n        },\n        {\n          \"text\": \"A devil's advocate critiques group ideas to discourage groupthink.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\", \"openstax-ch2-managerial-decision-making.pdf#p24\"]\n        },\n        {\n          \"text\": \"Encourage everyone to speak up and contribute.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p24\"]\n        },\n        {\n          \"text\": \"Help group members find common ground.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p24\"]\n        }\n      ],\n      \"notes\": [\n        {\n          \"text\": \"Ask which technique directly counters suppression of dissent.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p24\", \"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"Pitfall: a devil's advocate may be treated as disloyal unless the role is framed as improving the decision.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p24\", \"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        }\n      ]\n    },\n    {\n      \"title\": \"Conclusion\",\n      \"points\": [\n        {\n          \"text\": \"Decision-making is a crucial daily activity for managers.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"Decisions range from small and simple to big and complex.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\", \"openstax-ch2-managerial-decision-making.pdf#p3\"]\n        },\n        {\n          \"text\": \"Expertise develops through learning and experience.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\", \"openstax-ch2-managerial-decision-making.pdf#p14\"]\n        },\n        {\n          \"text\": \"Managers should collect information, notice biases, consider ethics, and think critically.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"Effective decisions benefit the organization and its stakeholders.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        }\n      ],\n      \"notes\": [\n        {\n          \"text\": \"Close by revisiting the learning objectives and ask students which barrier or technique they will apply first.\",\n          \"sources\": [\"objectives.md#Learning objectives\", \"openstax-ch2-managerial-decision-making.pdf#p25\"]\n        },\n        {\n          \"text\": \"Watch for students leaving with a simple rule that fast decisions are always risky or slow decisions are always better.\",\n          \"sources\": [\"openstax-ch2-managerial-decision-making.pdf#p3\", \"openstax-ch2-managerial-decision-making.pdf#p14\"]\n        }\n      ]\n    }\n  ]\n}",
+  "parsed": {
+    "title": "Managerial Decision-Making",
+    "slides": [
+      {
+        "title": "Learning Objectives",
+        "points": [
+          {
+            "text": "Describe basic characteristics of managerial decision-making.",
+            "sources": [
+              "objectives.md#Learning objectives"
+            ]
+          },
+          {
+            "text": "Contrast reflective and reactive decision-making systems.",
+            "sources": [
+              "objectives.md#Learning objectives"
+            ]
+          },
+          {
+            "text": "Distinguish programmed from nonprogrammed decisions.",
+            "sources": [
+              "objectives.md#Learning objectives"
+            ]
+          },
+          {
+            "text": "Identify barriers to effective decision-making, including confirmation bias.",
+            "sources": [
+              "objectives.md#Learning objectives"
+            ]
+          },
+          {
+            "text": "Apply techniques that improve individual and group decisions.",
+            "sources": [
+              "objectives.md#Learning objectives"
+            ]
+          }
+        ],
+        "notes": [
+          {
+            "text": "Present these as the main questions this session will answer.",
+            "sources": [
+              "objectives.md#Learning objectives",
+              "openstax-ch2-managerial-decision-making.pdf#p1"
+            ]
+          },
+          {
+            "text": "Ask which objective students feel least confident about.",
+            "sources": [
+              "objectives.md#Learning objectives"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Why Managerial Decision-Making Matters",
+        "points": [
+          {
+            "text": "Managers make decisions on a daily basis.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p3",
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "Decision-making is thinking through options and selecting one.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p3",
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "Decision quality affects the organization and its stakeholders.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p3",
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "Top managers decide about technology or product lines; lower-level managers affect departments.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p3"
+            ]
+          },
+          {
+            "text": "Stakeholders include owners, employees, customers, suppliers, and community members.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          }
+        ],
+        "notes": [
+          {
+            "text": "Use the Away founders example to show that even starting a business is a sequence of decisions.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p1",
+              "openstax-ch2-managerial-decision-making.pdf#p3"
+            ]
+          },
+          {
+            "text": "Ask why a scheduling decision can matter even if it does not determine firm survival.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p3"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Basic Characteristics",
+        "points": [
+          {
+            "text": "Managerial decisions often have significant impact and implications.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "They often involve complexity, incomplete information, and time constraints.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25",
+              "openstax-ch2-managerial-decision-making.pdf#p3",
+              "openstax-ch2-managerial-decision-making.pdf#p10"
+            ]
+          },
+          {
+            "text": "There is rarely one right answer.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25",
+              "openstax-ch2-managerial-decision-making.pdf#p4"
+            ]
+          },
+          {
+            "text": "Sometimes there are multiple good options or multiple bad options.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25",
+              "openstax-ch2-managerial-decision-making.pdf#p4"
+            ]
+          },
+          {
+            "text": "Managers must weigh consequences and recognize conflicting stakeholder needs.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "Some decisions have ethical implications.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25",
+              "openstax-ch2-managerial-decision-making.pdf#p4"
+            ]
+          }
+        ],
+        "notes": [
+          {
+            "text": "Ask what is wrong with treating management decisions like multiple-choice tests.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p4"
+            ]
+          },
+          {
+            "text": "Pitfall: students may think managers should simply wait for perfect information; waiting too long can also be harmful.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p3"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Two Brain Systems",
+        "points": [
+          {
+            "text": "The reflective system is logical, analytical, and methodical.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "The reactive system is quick and intuitive.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "Nonprogrammed decisions generally need reflective processing.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p9"
+            ]
+          },
+          {
+            "text": "Programmed decisions can use reactive processing through heuristics.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p9",
+              "openstax-ch2-managerial-decision-making.pdf#p7"
+            ]
+          }
+        ],
+        "notes": [
+          {
+            "text": "Ask students to label one recent decision as reflective and one as reactive.",
+            "sources": [
+              "objectives.md#Learning objectives",
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "Pitfall: students may say the reactive system is always worse; it can help with routine decisions.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p9",
+              "openstax-ch2-managerial-decision-making.pdf#p7"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Programmed Decisions",
+        "points": [
+          {
+            "text": "Programmed decisions are repeated over time.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p7",
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "They can be guided by existing rules or criteria.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p7",
+              "publisher-slides-standin.pptx#slide4"
+            ]
+          },
+          {
+            "text": "Their criteria may be simple or fairly complex.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p7"
+            ]
+          },
+          {
+            "text": "Example: scheduling part-time employees using anticipated business and availability.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p7"
+            ]
+          },
+          {
+            "text": "Example: ordering raw materials based on production, existing stock, and delivery timing.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p7"
+            ]
+          }
+        ],
+        "notes": [
+          {
+            "text": "Give one workplace example of a programmed decision and ask students to identify the rule.",
+            "sources": [
+              "publisher-slides-standin.pptx#slide4",
+              "openstax-ch2-managerial-decision-making.pdf#p7"
+            ]
+          },
+          {
+            "text": "Pitfall: students may assume programmed decisions are always simple.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p7"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Nonprogrammed Decisions",
+        "points": [
+          {
+            "text": "Nonprogrammed decisions are novel.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25",
+              "publisher-slides-standin.pptx#slide4"
+            ]
+          },
+          {
+            "text": "They lack well-defined or known criteria.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25",
+              "publisher-slides-standin.pptx#slide4"
+            ]
+          },
+          {
+            "text": "They require research, information, and other people's ideas.",
+            "sources": [
+              "publisher-slides-standin.pptx#slide4"
+            ]
+          },
+          {
+            "text": "They should be handled with a systematic process.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p14"
+            ]
+          },
+          {
+            "text": "Example: deciding whether to pursue a new technology or product line.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p3"
+            ]
+          }
+        ],
+        "notes": [
+          {
+            "text": "Ask why heuristics save time for programmed decisions but may hurt important nonprogrammed decisions.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p9",
+              "openstax-ch2-managerial-decision-making.pdf#p10",
+              "openstax-ch2-managerial-decision-making.pdf#p7"
+            ]
+          },
+          {
+            "text": "Use the Away founder case as a nonprogrammed decision example.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p1",
+              "openstax-ch2-managerial-decision-making.pdf#p7",
+              "openstax-ch2-managerial-decision-making.pdf#p3"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Decision-Making Process",
+        "points": [
+          {
+            "text": "Step 1: Recognize that a decision needs to be made.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p14"
+            ]
+          },
+          {
+            "text": "Step 2: Generate multiple alternatives.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p14"
+            ]
+          },
+          {
+            "text": "Step 3: Analyze the alternatives.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p14"
+            ]
+          },
+          {
+            "text": "Step 4: Select an alternative.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p14"
+            ]
+          },
+          {
+            "text": "Step 5: Implement the selected alternative.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p14"
+            ]
+          },
+          {
+            "text": "Step 6: Evaluate its effectiveness.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p14"
+            ]
+          }
+        ],
+        "notes": [
+          {
+            "text": "Ask which step is easiest to rush and what quality may be lost.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p14",
+              "openstax-ch2-managerial-decision-making.pdf#p15"
+            ]
+          },
+          {
+            "text": "Pitfall: ignoring problems because they are unclear leads to bigger problems.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p15"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Heuristics and Satisficing",
+        "points": [
+          {
+            "text": "Heuristics are mental shortcuts based on prior experience.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25",
+              "openstax-ch2-managerial-decision-making.pdf#p7",
+              "openstax-ch2-managerial-decision-making.pdf#p14"
+            ]
+          },
+          {
+            "text": "Heuristics help managers reach good decisions quickly.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25",
+              "openstax-ch2-managerial-decision-making.pdf#p14"
+            ]
+          },
+          {
+            "text": "Satisficing selects the first acceptable solution.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25",
+              "openstax-ch2-managerial-decision-making.pdf#p14"
+            ]
+          },
+          {
+            "text": "Satisficing minimizes time spent on a decision.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "Example: choosing generic products quickly when they are cheap enough.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p14"
+            ]
+          }
+        ],
+        "notes": [
+          {
+            "text": "Ask students to name one low-risk managerial decision where satisficing is acceptable.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p14"
+            ]
+          },
+          {
+            "text": "Pitfall: time pressure can push managers toward heuristics when deep processing is needed.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p10"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Barriers to Effective Decisions",
+        "points": [
+          {
+            "text": "Bounded rationality limits full rationality because information and processing are incomplete.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25",
+              "openstax-ch2-managerial-decision-making.pdf#p9"
+            ]
+          },
+          {
+            "text": "Escalation of commitment keeps decision makers invested in poor decisions despite negative outcomes.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25",
+              "openstax-ch2-managerial-decision-making.pdf#p10"
+            ]
+          },
+          {
+            "text": "Time constraints can prevent enough information collection and deep processing.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p10",
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "Uncertainty means outcomes may be unknown until a choice is made.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p10"
+            ]
+          },
+          {
+            "text": "Personal biases favor familiar people, things, and ideas.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p10"
+            ]
+          },
+          {
+            "text": "Confirmation bias favors information that confirms existing beliefs.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25",
+              "objectives.md#Learning objectives"
+            ]
+          }
+        ],
+        "notes": [
+          {
+            "text": "Ask students to distinguish incomplete information from cognitive limits in bounded rationality.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p9",
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "Watch for students treating escalation of commitment as mere stubbornness rather than continued investment in a poor choice.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p10"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Improving Individual Decisions",
+        "points": [
+          {
+            "text": "Be creative to generate more options.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p14",
+              "openstax-ch2-managerial-decision-making.pdf#p15"
+            ]
+          },
+          {
+            "text": "Conduct research and use evidence-based decision-making.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p14",
+              "openstax-ch2-managerial-decision-making.pdf#p15"
+            ]
+          },
+          {
+            "text": "Evidence-based decision-making relies on best available evidence and data.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p15",
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "Engage in critical thinking.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p14"
+            ]
+          },
+          {
+            "text": "Think about long-term implications.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p14"
+            ]
+          },
+          {
+            "text": "Consider ethical implications.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p14",
+              "openstax-ch2-managerial-decision-making.pdf#p4"
+            ]
+          },
+          {
+            "text": "Talk to other people, especially mentors, to generate alternatives.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p15"
+            ]
+          }
+        ],
+        "notes": [
+          {
+            "text": "Use the Away founders' research to illustrate evidence-based decision-making.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p1",
+              "openstax-ch2-managerial-decision-making.pdf#p15"
+            ]
+          },
+          {
+            "text": "Pitfall: managers may generate only two alternatives and rush to analysis.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p15"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Common Logical Fallacies",
+        "points": [
+          {
+            "text": "Non sequitur: the conclusion does not logically follow from the argument.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p17"
+            ]
+          },
+          {
+            "text": "For non sequiturs, examine arguments, assumptions, and supporting evidence.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p17"
+            ]
+          },
+          {
+            "text": "False cause: assuming that because two things are related, one caused the other.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p17"
+            ]
+          },
+          {
+            "text": "For false cause, ask whether another factor may explain the relationship.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p17"
+            ]
+          },
+          {
+            "text": "Ad hominem: attacking the person rather than the argument.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p17"
+            ]
+          },
+          {
+            "text": "For ad hominem, ask whether the argument would be persuasive if stated by someone else.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p17"
+            ]
+          }
+        ],
+        "notes": [
+          {
+            "text": "Ask students to find the unspoken assumption in the competitor marketing example.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p17"
+            ]
+          },
+          {
+            "text": "Pitfall: dismissing an argument because of who said it rather than because of its reasoning.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p17"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Advantages of Group Decisions",
+        "points": [
+          {
+            "text": "Groups can incorporate different perspectives and ideas.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p22"
+            ]
+          },
+          {
+            "text": "Diverse groups bring different preferences, opinions, biases, and stereotypes.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p22"
+            ]
+          },
+          {
+            "text": "More people often bring unique information and knowledge.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p22"
+            ]
+          },
+          {
+            "text": "Group decision-making often generates more options.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p22",
+              "openstax-ch2-managerial-decision-making.pdf#p24"
+            ]
+          },
+          {
+            "text": "Brainstorming generates as many solutions or options as possible.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p22",
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "Affected people may have greater understanding and commitment.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p22"
+            ]
+          }
+        ],
+        "notes": [
+          {
+            "text": "Ask why a hiring committee with both men and women may reduce similarity bias.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p22"
+            ]
+          },
+          {
+            "text": "Pitfall: students may assume that more people automatically means better decisions without diversity of perspective.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p22"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Disadvantages of Group Decisions",
+        "points": [
+          {
+            "text": "Groups can get bogged down by conflict.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p22"
+            ]
+          },
+          {
+            "text": "Some groups push for agreement at the expense of quality discussion.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p22"
+            ]
+          },
+          {
+            "text": "Groupthink occurs when members withhold concerns to keep peace.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p22",
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "Groupthink can arise from team spirit and fear of disrupting camaraderie.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p22"
+            ]
+          },
+          {
+            "text": "Suppression of dissent occurs when a member uses power to prevent others from speaking.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "Process conflict is task-oriented and constructive.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "Relationship conflict is personality-based and tends to be destructive.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          }
+        ],
+        "notes": [
+          {
+            "text": "Ask students to recall a group that chose quick agreement over substantive discussion.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p22",
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "Distinguish process conflict from relationship conflict so students do not label all disagreement as harmful.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Improving Group Decisions",
+        "points": [
+          {
+            "text": "Have diverse members in the group.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p24"
+            ]
+          },
+          {
+            "text": "Diversity can generate more options and reduce bias.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p24"
+            ]
+          },
+          {
+            "text": "Assign a devil's advocate.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p24"
+            ]
+          },
+          {
+            "text": "A devil's advocate critiques group ideas to discourage groupthink.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25",
+              "openstax-ch2-managerial-decision-making.pdf#p24"
+            ]
+          },
+          {
+            "text": "Encourage everyone to speak up and contribute.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p24"
+            ]
+          },
+          {
+            "text": "Help group members find common ground.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p24"
+            ]
+          }
+        ],
+        "notes": [
+          {
+            "text": "Ask which technique directly counters suppression of dissent.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p24",
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "Pitfall: a devil's advocate may be treated as disloyal unless the role is framed as improving the decision.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p24",
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Conclusion",
+        "points": [
+          {
+            "text": "Decision-making is a crucial daily activity for managers.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "Decisions range from small and simple to big and complex.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25",
+              "openstax-ch2-managerial-decision-making.pdf#p3"
+            ]
+          },
+          {
+            "text": "Expertise develops through learning and experience.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25",
+              "openstax-ch2-managerial-decision-making.pdf#p14"
+            ]
+          },
+          {
+            "text": "Managers should collect information, notice biases, consider ethics, and think critically.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "Effective decisions benefit the organization and its stakeholders.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          }
+        ],
+        "notes": [
+          {
+            "text": "Close by revisiting the learning objectives and ask students which barrier or technique they will apply first.",
+            "sources": [
+              "objectives.md#Learning objectives",
+              "openstax-ch2-managerial-decision-making.pdf#p25"
+            ]
+          },
+          {
+            "text": "Watch for students leaving with a simple rule that fast decisions are always risky or slow decisions are always better.",
+            "sources": [
+              "openstax-ch2-managerial-decision-making.pdf#p3",
+              "openstax-ch2-managerial-decision-making.pdf#p14"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

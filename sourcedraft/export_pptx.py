@@ -31,10 +31,18 @@ def export(data, out, template=None, final=False):
     for s in data["slides"]:
         slide = prs.slides.add_slide(prs.slide_layouts[1])
         slide.shapes.title.text = s["title"]
-        frame = slide.placeholders[1].text_frame
+        slide.shapes.title.text_frame.paragraphs[0].runs[0].font.size = Pt(30)
+        body = slide.placeholders[1]
+        left, top, width = body.left, body.top, body.width
+        body.left, body.top, body.width = left, top, width
+        body.height = prs.slide_height - top - Inches(0.8)  # keep clear of the source line
+        frame = body.text_frame
         frame.text = s["points"][0]["text"] if s["points"] else ""
         for p in s["points"][1:]:
             frame.add_paragraph().text = p["text"]
+        for para in frame.paragraphs:
+            for run in para.runs:
+                run.font.size = Pt(22)
         notes = s.get("notes", [])
         slide.notes_slide.notes_text_frame.text = "\n".join(n["text"] for n in notes)
         line = "Sources: " + ", ".join(_sources(s["points"] + notes))
