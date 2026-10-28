@@ -2,7 +2,18 @@
 
 Turns your own source documents (slides, PDFs, Word files, notes) into editable Office drafts. Every claim points back to the page or slide it came from. Nothing is final until a named person approves it.
 
+[Overview PDF](demo/sourcedraft-overview.pdf) · [Silent walkthrough video (2 min 45)](demo/walkthrough.mp4) · [Final deck as PDF](demo/demo-deck.pdf)
+
+![Review and approve in the web screen](demo/review-approve.gif)
+
 ## See the results
+
+**The web screen.** Add documents, ingest, pick what to make, review every point with its source, approve by name.
+
+![Project page](demo/ui/3-project.png)
+![Review page: slide, text, notes, sources](demo/ui/4-review.png)
+![Approval: name and tick box required](demo/ui/5-approve.png)
+![After approval: clean files and who approved](demo/ui/6-final.png)
 
 You do not need to install anything. These were produced from one chapter of an open textbook plus course objectives.
 
@@ -68,6 +79,8 @@ python -m sourcedraft draft demo-management teaching-deck --topic "Managerial de
 python -m sourcedraft review <run>
 python -m sourcedraft approve <run> --by "Your Name"
 ```
+
+The web screen (Laravel, in `ui/`) calls the same commands. Setup is in [ui/README.md](ui/README.md); it needs LibreOffice to draw the slide images.
 
 `<run>` is printed by `draft`, e.g. `demo-management/20261027-210018-teaching-deck`. Outputs land in `runs/<project>/<run>/`. Other commands: `sd runs <project>`. Tests: `python -m pytest`.
 

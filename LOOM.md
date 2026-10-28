@@ -1,22 +1,34 @@
-# Loom talk track (about 2 minutes)
+# Loom talk track (about 2 minutes), recorded in the web screen
 
-**0:00, README on GitHub, "See the results"**
-"This turns your own course documents into editable slides and case studies, and every point shows where it came from. Here is a real run, from one open textbook chapter and some learning objectives."
+Start the screen (see "Start it" below), sign in, open the project. Have one finished draft ready so you do not wait for the model (a draft takes a few minutes).
 
-**0:20, open the final deck, slide 2, then speaker notes**
-"Student-facing slides. Teaching notes sit in the speaker notes, so the instructor gets talking points and a question to ask. Down here, the source line: the exact page it came from."
+**0:00, Projects, then demo-management**
+"This turns your own course documents into editable slides and case studies. Every point shows where it came from. One project per course or client. These are the documents: an open textbook chapter, publisher-style slides and the learning objectives."
 
-**0:45, open the vignette docx, then the teaching note**
-"Same facts, second format: a short student case with a decision point and questions, and a separate teaching note listing the facts used and their sources."
+**0:20, point at Ingest and the Draft box (do not click)**
+"Ingest reads the files and cuts them into small numbered pieces. Then I pick what to make, here a teaching deck, and a topic. It writes in the background and the page updates by itself."
 
-**1:05, open demo/run-teaching-deck/**
-"Every run keeps a record: what was retrieved, what the model returned, the check results. If the model cites something that is not in your documents, the run fails. Nothing is invented."
+**0:40, open a draft from "Drafts to review"**
+"Review page. The slide on the left. On the right the student text, then the instructor notes. The green bar: the citation check passed, so every point names a source that exists in your documents."
 
-**1:25, open status.json**
-"A person approves by name before the clean version exists. Until then, the file has a DRAFT watermark."
+**1:05, click one source**
+"Click a source and you see the exact passage it came from. If the model cites something that is not in your documents, the run fails. Nothing is invented."
 
-**1:40, scroll to Privacy options and Swap any part**
-"For private material, the model can run on your own machine or your own cloud tenant. Another course or your own template is a new folder and one settings file, no code."
+**1:25, scroll to Approve, click Approve with the name empty**
+"Nothing is final yet. It is blocked without a name. A person has to approve."
+
+**1:40, type a name, tick the box, Approve, then open the final deck download**
+"Approved: the clean files appear, with no DRAFT mark, and the page records who and when. The final deck opens in PowerPoint, instructor notes in the speaker notes, a source line on every slide."
 
 **1:55, close**
-"I can run this on one of your own chapters this week, so you see it with your content."
+"For private material the model can run on your own machine or your own cloud. Another course or your own template is a new folder and one settings file. I can run this on one of your own chapters this week."
+
+## Start it
+
+```bash
+cd ~/work/sourcedraft/ui
+php artisan serve --host=127.0.0.1 --port=8800 &
+php artisan queue:work &
+```
+
+Open http://127.0.0.1:8800 and sign in with `demo@sourcedraft.test` / `sourcedraft`.

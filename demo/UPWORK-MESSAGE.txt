@@ -1,0 +1,6 @@
+I built a working demo of this: your own documents go in, an editable teaching deck and case study come out, every point shows its source, and a named person approves before anything is final.
+Code: https://github.com/noriods/sourcedraft
+Silent walkthrough (under 3 minutes): https://github.com/noriods/sourcedraft/blob/main/demo/walkthrough.mp4
+Overview PDF: https://github.com/noriods/sourcedraft/blob/main/demo/sourcedraft-overview.pdf
+If you send one sanitized chapter with its learning objectives, I'll run it through for the paid scoping exercise, so you see it with your own content.
+Norio
